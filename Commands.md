@@ -49,3 +49,6 @@
 * `git` `stash` `pop` **-> restores the most recently stashed files.**
 * `git` `stash` `list` **-> lists all stashed changesets.**
 * `git` `stash` `drop` **-> discards the most recently stashed changeset.**
+
+## Generating ssh key
+* **ssh-keygen -t ed25519 -C "your_email@example.com"**
