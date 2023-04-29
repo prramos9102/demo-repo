@@ -14,8 +14,8 @@
 
 ## Top COMMANDS DESCRIPTION
 
-* `git` `config` –global user.name “[name]” ->sets author name
-* `git` `config` –global user.email “[email address]” ->sets author email id
+* `git` `config` `–global` `user.name` “[`name`]” ->sets author name
+* `git` `config` `–global` `user.email` “[`email address`]” ->sets author email id
 * `git` `init` [`repository name`] ->start new repository
 * `git` `clone` [`url`] ->obtain a repository from an existing URL.
 * `git` `add` [`file`] ->adds a file to the staging area.
