@@ -1,6 +1,6 @@
-#TOP GITHUB COMMANDS
+# TOP GITHUB COMMANDS
 
-##ABC
+## ABC
 
 * repo -> repository
 * `clone` -> bring a repo down from the internet (remote repository like Github) to your local machine
@@ -12,7 +12,7 @@
 * `status` -> check to see which files are being tracked or need to be commited
 * `init` -> use this command inside of your project to turn it into a Git repository and start using Git with that codebase
 
-##Top COMMANDS DESCRIPTION
+## Top COMMANDS DESCRIPTION
 
 `git` `config` –global user.name “[name]” ->sets author name
 `git` `config` –global user.email “[email address]” ->sets author email id
