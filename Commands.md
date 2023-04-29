@@ -58,8 +58,8 @@
   $ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
   
  ## Adding SSH Key via GitHUB CLI
- * Prerequisites
-    -Have GitHub CLI installed to login with it (`gh` `auth` `login`)
+ * Prerequisites:
+    Have GitHub CLI installed to login with it (`gh` `auth` `login`)
  * `gh` `ssh-key` `add` `KEY-FILE` `--title` "`Example personal laptop`"
 
  * gh ssh-key add ~/.ssh/id_ed25519.pub --title "Example personal laptop"
