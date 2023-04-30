@@ -2,6 +2,23 @@
 
 ## ABC
 
+### **…or create a new repository on the command line**
+
+echo "# demo-repo2" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:prramos9102/demo-repo2.git
+git push -u origin main
+
+### **…or push an existing repository from the command line**
+
+git remote add origin git@github.com:prramos9102/demo-repo2.git
+git branch -M main
+git push -u origin main
+
+
 * repo **-> repository**
 * `clone` **-> bring a repo down from the internet (remote repository like Github) to your local machine**
 * `add` **-> track your files and changes with Git**
